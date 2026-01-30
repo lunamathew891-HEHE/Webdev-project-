@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Personal Information</title>
+</head>
+<body>
+
+    <p>Name: Mathew L Luna</p>
+    <p>Address: Ibabao Agus LLC</p>
+    <p>Gender: Male</p>
+    <p>Description of Self:</p>
+    <p>A person who is always willing to learn and listen to other people.</p>
+    
+<h6>CLASS CODE | SUBJECT CODE | DESCRIPTIVE TITLE | TIME | DAY/S | ROOM | UNITS | INSTRUCTOR</h6>
+
+    <h6>WEB | WEB | WEB DEVELOPMENT | 7:00 - 8:00 AM | MWF | LAB 1 | 3 | B. EMPACES</h6>
+
+    <h6>GE 4 | GE 4 | PURPOSIVE COMMUNICATION | 2:00 - 3:00 PM | MWF | 402 | 3 | C. BLASCO</h6>
+
+    <h6>PROG 2 | PROG 2 | COMPUTER PROGRAMMING 2 | 8:00 - 9:00 AM | MWF | LAB 1 | 3 | I. EDA</h6>
+
+    <h6>BASIC ELECT | BASIC ELECT | BASIC ELECTRONICS | 9:00 - 10:00 AM | MWF | LAB 3 | 3 | T. COMAYAS</h6>
+
+    <h6>PATHFIT 2 | PATHFIT 2 | EXERCISE-BASED FITNESS ACTIVITIES | 1:00 - 2:00 PM | MWF | 302 | 2 | J. PAQUIBOT</h6>
+
+    <h6>NSTP 2 | NSTP 2 | NATIONAL SERVICE TRAINING PROGRAM 2 | 12:00 - 1:00 PM | MWF | 402 | 3 | L. PAQUIBOT</h6>
+
+    <h6>GE 3 | GE 3 | READINGS IN PHILIPPINE HISTORY | 7:00 - 8:30 AM | TTH | 202 | 3 | D. INOC</h6>
+
+    <h6>FIL 2 | FIL 2 | PANITIKAN NG PILIPINAS | 10:00 - 11:30 AM | TTH | 203 | 3 | E. ANDO</h6>
+
+    <h6>DISCRETE 1 | DISCRETE 1 | DISCRETE STRUCTURES | 8:30 - 10:00 AM | TTH | 203 | 3 | E. DINOY</h6>
+
+    <br>
+
+    <h6>TOTAL UNITS: 26</h6>
+    
+
+</body>
+</html>
